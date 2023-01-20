@@ -1312,7 +1312,7 @@ PrefabInstance:
     - target: {fileID: 2015434656898269652, guid: a3e14f1cc6b1b6c469932c344a86f1a4,
         type: 3}
       propertyPath: m_Name
-      value: Enemy_HoverBot 1
+      value: Enemy_WizardBot
       objectReference: {fileID: 0}
     - target: {fileID: 2015434656898269656, guid: a3e14f1cc6b1b6c469932c344a86f1a4,
         type: 3}
